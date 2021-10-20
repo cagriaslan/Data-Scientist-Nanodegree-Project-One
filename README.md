@@ -31,7 +31,7 @@ There are three files here:
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the [post](#) available
+The main findings of the code can be found at the [post](https://medium.com/@cagriaslan/a-simple-analysis-of-stack-overflow-2021-survey-results-914bbb28d3bf) available
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
